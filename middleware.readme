@@ -1,0 +1,2 @@
+middleware redux package
+npm install --save redux-promise
